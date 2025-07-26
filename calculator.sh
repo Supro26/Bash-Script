@@ -7,7 +7,7 @@ if (( $# == 0 )); then
     ██║      ██╔══██║ ██║     
     ╚██████╗ ██║  ██║ ███████╗ 
     "
-sleep 0.3
+sleep 0.2
 echo -e "Hey there, calculate whatever u want!
 
 VERSION : 1.0
