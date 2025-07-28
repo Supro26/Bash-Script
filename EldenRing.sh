@@ -1,4 +1,11 @@
 #!/bin/bash
+for i in {1..100}
+do
+    echo -ne "Game Loading... $i%\r"
+    sleep 0.05
+done
+
+echo -e "\n\n - - - - - - Elden Ring - - - - - -\n"
 echo -e "We Have a Beast in front, which weapon you wanna pick
 '0' for Sword
 '1' for Bow & Arrow"
